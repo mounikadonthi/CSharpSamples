@@ -1,0 +1,13 @@
+c:\users\mounika.d\documents\visual studio 2015\Projects\Switchboardsimulation\Switchboardsimulation\bin\Debug\Switchboardsimulation.exe.config
+c:\users\mounika.d\documents\visual studio 2015\Projects\Switchboardsimulation\Switchboardsimulation\bin\Debug\Switchboardsimulation.exe
+c:\users\mounika.d\documents\visual studio 2015\Projects\Switchboardsimulation\Switchboardsimulation\bin\Debug\Switchboardsimulation.pdb
+c:\users\mounika.d\documents\visual studio 2015\Projects\Switchboardsimulation\Switchboardsimulation\obj\Debug\Switchboardsimulation.csprojResolveAssemblyReference.cache
+c:\users\mounika.d\documents\visual studio 2015\Projects\Switchboardsimulation\Switchboardsimulation\obj\Debug\Switchboardsimulation.exe
+c:\users\mounika.d\documents\visual studio 2015\Projects\Switchboardsimulation\Switchboardsimulation\obj\Debug\Switchboardsimulation.pdb
+E:\c#\Switchboardsimulation\Switchboardsimulation\bin\Debug\Switchboardsimulation.exe.config
+E:\c#\Switchboardsimulation\Switchboardsimulation\bin\Debug\Switchboardsimulation.exe
+E:\c#\Switchboardsimulation\Switchboardsimulation\bin\Debug\Switchboardsimulation.pdb
+E:\c#\Switchboardsimulation\Switchboardsimulation\obj\Debug\Switchboardsimulation.csproj.CoreCompileInputs.cache
+E:\c#\Switchboardsimulation\Switchboardsimulation\obj\Debug\Switchboardsimulation.exe
+E:\c#\Switchboardsimulation\Switchboardsimulation\obj\Debug\Switchboardsimulation.pdb
+E:\c#\Switchboardsimulation\Switchboardsimulation\obj\Debug\Switchboardsimulation.csprojAssemblyReference.cache
